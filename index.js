@@ -1,5 +1,6 @@
 // Only Odds 
-// Take array of numbers and filter out into new array containing only odd numbers.// Create const of our [array]
+// Take array of numbers and filter out into new array containing only odd numbers.
+// Create const of our [array]
 // Our new array [oddResults] will = our array filtered out anything % by 2
 // Output our new array into the terminal
 
