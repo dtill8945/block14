@@ -21,11 +21,11 @@ const oddResults4 = array4.filter(array4 => array4%2);
 console.log(oddResults4);
 
 // Vowel Vs Consonant
-// Define a consonant variable for the input array
+// Define a consonant variable for the input string
 // Define vowel and consonant
 // Create if loop any vowels will increase counter
 // Else anything not a vowel will increase the consonant counter
-// Output "word[] has (cons) consonants and (vow) vowels"
+// Output "(word) has (cons) consonants and (vow) vowels"
 
 const word = "hello"
 let vow = 0;
